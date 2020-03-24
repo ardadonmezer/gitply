@@ -2,3 +2,4 @@ this is the first text file
 this is the first edit by the branch dal
 this is the second edit by the branch dal with cmd
 now master is adding a line
+and master is adding a line with atom
